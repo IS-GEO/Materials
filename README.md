@@ -1,3 +1,5 @@
+![img](isgeo17-welcome.png)
+
 # Materials and Agenda
 Materials used during the sessions of the workshop
 
